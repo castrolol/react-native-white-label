@@ -1,0 +1,13 @@
+{
+    "splashscreenColor": "#ffffff",
+    "images": {
+        "logo.jpg": "assets/logo.jpg"
+    },
+    "filies": {},
+    "values": {
+        "teste": "Vim do Default "
+    },
+    "colors": {
+        "primary": "green"
+    }
+}

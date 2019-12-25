@@ -1,0 +1,11 @@
+{
+
+    "splashscreenColor": "#0079D3",
+    "splashscreenImage": "splashscreen.jpg",
+    "packageName": "com.testando1",
+    "appName": "Testando 1",
+    "iconName": "icon.jpg",
+    "values": {
+        "teste": "Vim do App 2 "
+    }
+}
